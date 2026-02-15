@@ -37,7 +37,7 @@ Proxmox Monitor est une application web moderne pour surveiller et gérer vos co
   - Activation/désactivation facile
 - Affichage groupé par LXC des conteneurs ayant des mises à jour
 
-### 📈 Graphiques et Historique des Métriques (Phase 3)
+### 📈 Graphiques et Historique des Métriques 
 - Collecte automatique des métriques toutes les minutes
 - Stockage dans PostgreSQL avec rétention de 30 jours
 - Graphiques interactifs avec Recharts
@@ -45,7 +45,7 @@ Proxmox Monitor est une application web moderne pour surveiller et gérer vos co
 - Filtrage par LXC ou vue globale
 - Agrégation automatique des données pour les longues périodes
 
-### 🖥️ Terminal Web et Gestionnaire de Fichiers (Phase 2)
+### 🖥️ Terminal Web et Gestionnaire de Fichiers 
 - **Terminal SSH interactif** :
   - Exécution de commandes en temps réel
   - Historique des commandes (flèches haut/bas)
@@ -57,7 +57,7 @@ Proxmox Monitor est une application web moderne pour surveiller et gérer vos co
   - **Téléchargement de fichiers** depuis le LXC
   - Menu contextuel (clic droit)
 
-### 🚨 Système d'Alertes (Phase 5)
+### 🚨 Système d'Alertes 
 - **Types d'alertes configurables** :
   - CPU élevé (seuil et durée configurables)
   - Mémoire élevée
